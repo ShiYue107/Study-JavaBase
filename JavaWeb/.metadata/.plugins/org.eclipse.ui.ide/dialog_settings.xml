@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="G:\study\SPringMVCObject\综合项目1\blog_adminSy"/>
+			<item value="G:\study\SPringMVCObject\综合项目4\oam"/>
+			<item value="E:\webDownload\CrowdFunding-master"/>
+			<item value="G:\project\eclipse_project\JavaWeb\CrowdFunding-master"/>
+			<item value="E:\webDownload\ceshi\CrowdFunding-master"/>
+			<item value="F:\SPringMVCObject\综合项目1\blog_adminSy"/>
+			<item value="J:\机考场试2\13039063\Person_Sys"/>
+			<item value="J:\SpringMVC\Blog_adminSys"/>
+			<item value="G:\project\eclipse_project\JavaWeb\Student_Sys"/>
+			<item value="G:\project\eclipse_project\JavaWeb\Vip_Sys"/>
+			<item value="G:\project\eclipse_project\JavaWeb\FanXiaoSys"/>
+			<item value="E:\desktop\大数据1902班\大数据技术与应用二班20193300076符秀忠\第二题\javaWEB"/>
+			<item value="E:\desktop\大数据1902班\大数据2班20193300113张伟凤\JavaWeb\RoomSys"/>
+			<item value="E:\desktop\大数据1902班\大数据2班20193300014李沁泽\kaoshj2"/>
+			<item value="E:\desktop\大数据1902班\20193300293邓含雕\java\javademo"/>
+			<item value="E:\desktop\大数据1902班\20193300125张锦航\2\javaweb"/>
+			<item value="E:\desktop\大数据1902班\20193300125张锦航\1"/>
+			<item value="E:\desktop\大数据1902班\20193300121番葵芳\JavaW考试"/>
+			<item value="E:\desktop\大数据1902班\20193300121番葵芳\Java高级考试"/>
+			<item value="E:\desktop\大数据1902班\20193300082张恩海\Room_1901"/>
+			<item value="E:\desktop\大数据1902班\20193300082张恩海\javagaoji"/>
+			<item value="E:\desktop\大数据1902班\20193300116 王志伟\javaweb考试"/>
+			<item value="E:\desktop\大数据1902班\20193300116 王志伟\java高级"/>
+			<item value="E:\desktop\大数据1902班\20193300115岩机\JavaWeb"/>
+			<item value="E:\desktop\大数据1902班\20193300115岩机\Java高级"/>
+			<item value="E:\desktop\大数据1902班\20193300108张嘎收\JavaWeb"/>
+			<item value="E:\desktop\大数据1902班\20193300108张嘎收\Java高级"/>
+			<item value="E:\desktop\大数据1902班\20193300069钱泉先\javaweb"/>
+			<item value="E:\desktop\大数据1902班\20193300069钱泉先\java高级"/>
+			<item value="E:\desktop\大数据1902班\1902大数据二班20193330022彭智斌\第二题\ks"/>
+			<item value="E:\desktop\大数据1902班\1902大数据二班20193330022彭智斌\第一题\ks1"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300292蒋忠兵\云南理工宿舍管理系统\roomSystem"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300292蒋忠兵\TestSys"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300283丁光泽\javaWeb高级"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300122谢映波\2\bo"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300122谢映波\1\bobo"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300120李梦\javaweb\javaweb"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300120李梦\Java高级\javagaoji"/>
+			<item value="E:\desktop\大数据1902班\1902大数据-20193300093-张晖键\javaWeb\YLGRoom"/>
+			<item value="E:\desktop\大数据1902班\1902大数据-20193300093-张晖键\javaoop1"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300092周权城\第二题\text01"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300092周权城\第一题\Javaoop"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300087张春慧\Java高级\Kaoshi"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300084张从亮\第一大题和第二大题\Java"/>
+			<item value="E:\desktop\大数据1902班\1902-20193300277杨再佳\text2\text"/>
+			<item value="E:\desktop\大数据1902班\1902-20193300277杨再佳\text1\text"/>
+			<item value="E:\desktop\大数据1902班\19级大数据二班20193300079赵生阳（改）\javaweb\JavaWeb"/>
+			<item value="E:\desktop\大数据1902班\19级大数据二班20193300079赵生阳（改）\java高级\java-OOP"/>
+			<item value="E:\desktop\大数据1902班\19级大数据2班20193300107李保忠\2\wd"/>
+			<item value="E:\desktop\大数据1902班\19级大数据2班20193300107李保忠\1\zuoyi"/>
+			<item value="E:\desktop\大数据1902班\19级大数据2班20193300096王朝厅\XSGL"/>
+			<item value="E:\desktop\大数据1902班\19级大数据2班20193300096王朝厅\JavaGj"/>
+			<item value="E:\desktop\大数据1902班\19大数据2班20193300078文宗会\第二题\Javaweb1-5"/>
+			<item value="E:\desktop\大数据1902班\19大数据2班20193300078文宗会\第一题"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300090丁重虎\shushe.system"/>
+			<item value="E:\desktop\大数据1902班\1902大数据20193300090丁重虎"/>
+			<item value="E:\desktop\大数据1902班\20193300106张锋\JavaWebSys"/>
+			<item value="E:\desktop\大数据1902班\20193300106张锋\JavaGaoJiSys"/>
+			<item value="E:\desktop\大数据1901班11\2021综合大礼包\J2021_exam"/>
+			<item value="E:\desktop\大数据1901班11\201933000971901大数据白倩\Java web\JavaWebDemo"/>
+			<item value="E:\desktop\大数据1901班11\201933000971901大数据白倩\白倩Java高级\JavaDemo"/>
+			<item value="E:\desktop\大数据1901班11\20193300123余光辰\第二题\test01"/>
+			<item value="E:\desktop\大数据1901班11\20193300117段旭\JavaWeb"/>
+			<item value="E:\desktop\大数据1901班11\20193300117段旭\java高级"/>
+			<item value="E:\desktop\大数据1901班11\20193300112魏传巍\exam_javaweb_wc"/>
+			<item value="E:\desktop\大数据1901班11\20193300112魏传巍\exam_java_wcw"/>
+			<item value="E:\desktop\大数据1901班11\20193300094钟凤艳\JavaWeb"/>
+			<item value="E:\desktop\大数据1901班11\20193300094钟凤艳\Java高级程序设计\Javagj"/>
+			<item value="E:\desktop\大数据1901班11\20193300083母忠玲\javaweb"/>
+			<item value="E:\desktop\大数据1901班11\20193300083母忠玲\java高级"/>
+			<item value="E:\desktop\大数据1901班\20193300081王胜\Javaweb\Demo2"/>
+			<item value="E:\desktop\大数据1901班\20193300081王胜\java高级\Demo1"/>
+			<item value="E:\desktop\大数据1901班\20193300074余庭星\Shopping"/>
+			<item value="E:\desktop\大数据1901班\20193300074余庭星\Read"/>
+			<item value="E:\desktop\大数据1901班\20193300073周海英\javaweb\Gwc"/>
+			<item value="E:\desktop\大数据1901班\20193300073周海英\java高级\test 01"/>
+			<item value="E:\desktop\大数据1901班\20193300071欧阳宇涵\Javaweb"/>
+			<item value="E:\desktop\大数据1901班\20193300071欧阳宇涵\java高级"/>
+			<item value="E:\desktop\大数据1901班\20193300071欧阳宇涵\java高级\1"/>
+			<item value="E:\desktop\大数据1901班\20193300070王琳唯\gwc"/>
+			<item value="E:\desktop\大数据1901班\20193300070王琳唯\javagj"/>
+			<item value="E:\desktop\大数据1901班\20193300064曹靖\JavaWeb\Java"/>
+			<item value="E:\desktop\大数据1901班\20193300064曹靖\Java高级"/>
+			<item value="E:\desktop\大数据1901班\20193300063范家隆\2\Shoppcar_st"/>
+			<item value="E:\desktop\大数据1901班\20193300063范家隆\1\test1"/>
+			<item value="E:\desktop\大数据1901班\20193300050吴润\Dome2"/>
+			<item value="E:\desktop\大数据1901班\20193300050吴润\Dome1"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300128丹增噶丹\第二题\Gouwc"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300128丹增噶丹\第一题"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300124子臻杰\shopCar"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300124子臻杰\FileIO"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300119张金兰\JavaWeb"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300119张金兰\Java高级"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300109雷振灵\Java Web"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300109雷振灵\Java高级"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300105罗廷勇\第二题\kaoshi_gwc"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300105罗廷勇\第一题"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300103黄俊\javaGaoJi"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300103黄俊\gwc"/>
+			<item value="E:\desktop\大数据1901班\Test2333"/>
+			<item value="E:\desktop\大数据1901班\Test2"/>
+			<item value="E:\desktop\大数据1901班\Test1"/>
+			<item value="E:\desktop\大数据1901班\Test1\src"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300091何永都\第二题"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300091何永都\第一题"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300068丁浩\Test2"/>
+			<item value="E:\desktop\大数据1901班\1901大数据20193300068丁浩\Test1"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300098 万昊卓\dom3"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300098 万昊卓\dome2"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300098 万昊卓\dome1"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300065 贾靖杰\2\Java_web_test1"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300065 贾靖杰\1\Test0104"/>
+			<item value="E:\desktop\大数据1901班\1901大数据 20193300029 达瓦次仁\com.vip.Utils"/>
+			<item value="J:\卓越项目\Disk"/>
+			<item value="J:\java\LiuYan_1902"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\desktop\Student_sys_1902"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+		</section>
+	</section>
+</section>

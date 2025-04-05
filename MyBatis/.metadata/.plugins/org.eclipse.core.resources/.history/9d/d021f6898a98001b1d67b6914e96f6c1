@@ -1,0 +1,16 @@
+package com.itkoma.JTest;
+
+import org.apache.ibatis.session.SqlSession;
+import org.junit.Test;
+
+import com.itkoma.SqlSessionUtils.SqlSessionBase;
+
+public class Test1 {
+	@Test
+	public void selectTest() {
+		
+		//获取SqlSession
+		SqlSession sqlSession = SqlSessionBase.getSqlSession();
+	}
+
+}

@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+G:\project\eclipse_project\BlueBridge-1\.metadata\.plugins\org.eclipse.jdt.core
+2216430478.index
+3292096711.index
+3288391953.index
+184577583.index
+3862673391.index
+2968527515.index
+1792787742.index
+983374149.index
+1929973764.index
+2611739896.index
+2218166385.index
+1075701939.index
+2624781681.index
+2778707374.index
+2260455217.index

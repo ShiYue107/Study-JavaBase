@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.oneqi&apos; to &apos;com.rwEr&apos;&#x0D;&#x0A;- Original project: &apos;ShiErJie&apos;&#x0D;&#x0A;- Original element: &apos;ShiErJie/src/com.oneqi&apos;&#x0D;&#x0A;- Renamed element: &apos;ShiErJie/src/com.rwEr&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.oneqi&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.oneqi" name="com.rwEr" qualified="false" references="true" stamp="1611038551468" textual="false" version="1.0"/>
+</session>

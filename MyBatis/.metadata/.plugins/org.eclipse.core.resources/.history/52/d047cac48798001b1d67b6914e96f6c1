@@ -1,0 +1,5 @@
+package com.itkoma.Dao;
+
+public interface StudentMapper {
+
+}

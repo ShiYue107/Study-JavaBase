@@ -1,0 +1,9 @@
+package com.itkoma.Model;
+
+public class StuClass {
+
+	class_id
+	class_name
+	grade
+
+}

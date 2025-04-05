@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+G:\project\eclipse_project\BlueCom\.metadata\.plugins\org.eclipse.jdt.core
+58627923.index
+3587323989.index
+1135942955.index
+3772615073.index
+1458731996.index
+1088657655.index
+2952961881.index
+3860554748.index
+3083364203.index
+3134924606.index
+1679210973.index
+1890660932.index
+80896345.index
+3860860889.index
+3697941886.index
+3486980540.index
+1092600472.index
+334677020.index

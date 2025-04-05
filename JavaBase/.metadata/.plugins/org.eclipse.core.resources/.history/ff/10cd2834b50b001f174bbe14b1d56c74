@@ -1,0 +1,16 @@
+package com.fivan.demo;
+/**
+ * @author fivan
+ * @version 1.0
+ * @Date 2023-8-22
+ */
+public class TestTool {
+	public void testTool() {
+		String str = "str";
+		System.out.println(sperak(str));
+	}
+	
+	public String sperak(String str) {
+		return str;
+	}
+}

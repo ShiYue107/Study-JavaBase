@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zf.Mapper.RoleMapper">
+	<resultMap type="Role" id="roleMap">
+		<result property="id" column="id"/>
+		<result property="role_name" column="role_name"/>
+		<result property="enabled" column="enabled"/>
+		<result property="create_by" column="create_by"/>
+		<result property="create_time" column="create_time"/>
+	</resultMap>
+	
+	<update id="updateRoleByMap">
+		update sys_role set
+		<foreach collection="updateMap" index="key" item="value" separator=",">
+			<if test="key != 'id'">
+				${key} = #{value}
+			</if>
+		</foreach>
+		<where>
+			<foreach collection="updateMap" index="key" item="value" separator=",">
+				<if test="key == 'id'">
+					id = #{value}
+				</if>
+			</foreach>
+		</where>
+	</update>
+	
+	<!-- <insert id="addRole">
+		insert into sys_role (role_name,enabled,create_by,create_time) 
+		values
+		<foreach collection="list" item="re" separator=",">
+			(#{re.role_name},#{re.enabled},#{re.create_by},
+			 #{re.create_time,jdbcType=TIMESTAMP})
+		</foreach>
+	</insert> -->
+	
+	<!-- <select id="queryAllByIdsRoEnab" resultMap="roleMap">
+		select * from sys_role
+		<trim prefix="where" prefixOverrides="and | ro">
+			<if test="ids != null">
+				and id in
+				<foreach collection="ids" item="id" index="i" open="(" close=")" separator=",">
+					#{id}
+				</foreach>
+			</if>
+			<if test="enabled != null and enabled != ''">
+				and enabled=#{enabled}
+			</if>
+		</trim>
+	</select> -->
+	
+	<!-- 通过所给的id查询Role -->
+	<!-- <select id="queryAllByIds" resultMap="roleMap">
+		select * from sys_role
+		<where>
+			id in
+			<foreach collection="array" item="id" index="i" open="(" close=")" separator=",">
+				#{id}
+			</foreach>
+		</where>
+	</select> -->
+	<!-- <select id="queryAllByRole" resultMap="roleMap">
+		select * from sys_role where 1=1
+		<if test="role_name!=null and role_name!=''">
+			and role_name like concat('%',#{role_name},'%')
+		</if>
+		<if test="enabled!=null">
+			and enabled=#{enabled}
+		</if>
+	</select> -->
+	
+	<!-- <select id="queryAllByRole" resultMap="roleMap">
+		select * from sys_role where 1=1
+		<choose>
+			<when test="role_name!=null and role_name!=''">
+				and role_name like concat('%',#{role_name},'%')
+			</when>
+			<when test="enabled!=null">
+				and enabled=#{enabled}
+			</when>
+			<otherwise>
+				and 1=2
+			</otherwise>
+		</choose>
+	</select> -->
+	
+	<!-- <select id="queryAllByRole" resultMap="roleMap">
+		select * from sys_role 
+		<where>
+			<if test="role_name!=null and role_name!=''">
+				and role_name like concat('%',#{role_name},'%')
+			</if>
+			<if test="enabled!=null">
+				and enabled=#{enabled}
+			</if>
+		</where>
+	</select>  -->
+	
+	<!-- <select id="queryAllByRole" resultMap="roleMap">
+		select * from sys_role 
+		<trim prefix="where" prefixOverrides="and|or">
+			<if test="role_name!=null and role_name!=''">
+				and role_name like concat('%',#{role_name},'%')
+			</if>
+			<if test="enabled!=null">
+				and enabled=#{enabled}
+			</if>
+		</trim>
+	</select> -->
+</mapper>

@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+	background: #ddd
+}
+ol,ul,li{
+	list-style: none;
+}
+.loginwarrp{
+	margin: 250px auto;
+	width: 400px;
+	padding: 30px 50px;
+	background: #ffffff;
+	overflow: hidden;
+	font-size: 14px;
+	font-family: '微软雅黑' ,'文泉驿正黑','黑体';
+}

@@ -1,0 +1,18 @@
+package com.itkoma.SqlSessionUtils;
+
+import java.io.InputStream;
+
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+public class SqlSessionBase {
+	
+	public static SqlSession getSqlSession() {
+		
+		InputStream inputStream = Resources.getResourceAsStream("mybatis-config.xml");
+		SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+		return null;
+	}
+
+}

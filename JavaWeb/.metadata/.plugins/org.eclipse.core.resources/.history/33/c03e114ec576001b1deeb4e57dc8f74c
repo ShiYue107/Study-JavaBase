@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@page import="java.util.List" %>
+<%@page import="com.zf.pojo.*" %>
+<%@page import="com.zf.impl.*" %>
+<%@page import="com.zf.dao.*" %>
+<%@
+	request.setCharactEncoding("utf-8");
+	String path = request.getContentPath();
+ %>
+<!DOCTYPE html>
+<!doctype >
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>
