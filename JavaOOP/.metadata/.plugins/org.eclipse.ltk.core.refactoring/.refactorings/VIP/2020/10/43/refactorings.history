@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.Util.DBConnUtil&apos; to &apos;BaseDao&apos;&#x0D;&#x0A;- Original project: &apos;VIP&apos;&#x0D;&#x0A;- Original element: &apos;com.Util.DBConnUtil&apos;&#x0D;&#x0A;- Renamed element: &apos;com.Util.BaseDao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DBConnUtil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.Util{DBConnUtil.java[DBConnUtil" matchStrategy="1" name="BaseDao" qualified="false" references="true" similarDeclarations="false" stamp="1603179211893" textual="false" version="1.0"/>
+</session>

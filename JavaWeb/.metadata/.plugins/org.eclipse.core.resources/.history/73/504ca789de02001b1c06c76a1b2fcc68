@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+	background: #ddd
+}
+ol,ul,li{
+	list-style: none;
+}
+.loginwarrp{
+	margin: 250px auto
+}

@@ -1,0 +1,113 @@
+package com.itkoma.Model;
+
+public class Student {
+
+	private String id;
+	private String name;
+	private String age;
+	private String gender;
+	private String classId;
+	private String address;
+	private String tel;
+	private String desc;
+	
+	private StuClass stuClass;
+	
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Student(String id, String name, String age, String gender, String classId, String address, String tel,
+			String desc, StuClass stuClass) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+		this.gender = gender;
+		this.classId = classId;
+		this.address = address;
+		this.tel = tel;
+		this.desc = desc;
+		this.stuClass = stuClass;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getAge() {
+		return age;
+	}
+
+	public void setAge(String age) {
+		this.age = age;
+	}
+
+	public String getGender() {
+		return gender;
+	}
+
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+
+	public String getClassId() {
+		return classId;
+	}
+
+	public void setClassId(String classId) {
+		this.classId = classId;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getTel() {
+		return tel;
+	}
+
+	public void setTel(String tel) {
+		this.tel = tel;
+	}
+
+	public String getDesc() {
+		return desc;
+	}
+
+	public void setDesc(String desc) {
+		this.desc = desc;
+	}
+
+	public StuClass getStuClass() {
+		return stuClass;
+	}
+
+	public void setStuClass(StuClass stuClass) {
+		this.stuClass = stuClass;
+	}
+
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", age=" + age + ", gender=" + gender + ", classId=" + classId
+				+ ", address=" + address + ", tel=" + tel + ", desc=" + desc + ", stuClassName=" + stuClass.getClassName() + "]";
+	}
+	
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zf.Mapper.RoleMapper">
+	<resultMap type="Role" id="rolePrivilegeMap">
+		<association property="privilege" />
+		
+	</resultMap>
+  <select id="queryAllRoleById" resultType="rolePrivilegeMap">
+    select * from sys_role r join sys_role_privilege s on r.id=s.role_id 
+    join sys_privilege p on s.privilege_id=p.id and r.id=#{id}
+  </select>
+</mapper>

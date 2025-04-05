@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@page import="java.util.List" %>
+<%@page import="com.zf.pojo.*" %>
+<%@page import="com.zf.impl.*" %>
+<%@page import="com.zf.dao.*" %>
+<%@
+	request.setCharactEncoding("utf-8");
+	String path = request.getContentPath();
+ %>
+<!DOCTYPE html>
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "tttp://www.w3c.org/tr/1999/rec-html
+401 - 19991224/losse.dtd">
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

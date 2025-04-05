@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SqlSessionBase.java&apos; to &apos;WangFei_sys/src/test/java/com.JunitTest&apos;&#x0D;&#x0A;- Original project: &apos;WangFei_sys&apos;&#x0D;&#x0A;- Destination element: &apos;WangFei_sys/src/test/java/com.JunitTest&apos;&#x0D;&#x0A;- Original element: &apos;com.itkoma.Utils.SqlSessionBase.java&apos;" description="Copy compilation unit" destination="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.JunitTest" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.itkoma.Utils{SqlSessionBase.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617348309583" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Wed Jul 07 19:33:26 CST 2021
+org.eclipse.jst.jee.server\:/binary\:G\:\\study\\SPringMVCObject\\\u7EFC\u5408\u9879\u76EE1\\blog_adminSy\\WebContent\\WEB-INF\\lib\\log4j-core-2.0-rc1.jar=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\blog_admin\\WEB-INF\\lib\\log4j-core-2.0-rc1.jar
+org.eclipse.jst.jee.server\:blog_admin=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\blog_admin
+org.eclipse.jst.jee.server\:/binary\:G\:\\study\\SPringMVCObject\\\u7EFC\u5408\u9879\u76EE1\\blog_adminSy\\WebContent\\WEB-INF\\lib\\spring-web-4.1.3.RELEASE.jar=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\blog_admin\\WEB-INF\\lib\\spring-web-4.1.3.RELEASE.jar
+org.eclipse.jst.jee.server\:Person_Sys=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\Person_Sys
+org.eclipse.jst.jee.server\:FanXiaoSys=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\FanXiaoSys
+org.eclipse.jst.jee.server\:DianZiGgSys=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\DianZiGgSys
+org.eclipse.jst.jee.server\:Vip_Sys=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\Vip_Sys
+org.eclipse.jst.jee.server\:ShiChaiWangSys=E\:\\tools\\tomcat\\apache-tomcat-8.5.63\\webapps\\ShiChaiWangSys

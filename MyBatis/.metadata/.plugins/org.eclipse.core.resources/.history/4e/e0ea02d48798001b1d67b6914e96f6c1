@@ -1,0 +1,6 @@
+package com.itkoma.Dao;
+
+public interface StudentMapper {
+
+	//查询所有学生信息
+}

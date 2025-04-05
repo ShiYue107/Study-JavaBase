@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itkoma.Dao.WangFMapper">
+<resultMap type="WangFei" id="wfMap">
+	<result property="id" column="id"/>
+	<result property="number" column="number"/>
+	<result property="password" column="password"/>
+	<result property="balance" column="balance"/>
+	<result property="descs" column="descs"/>
+</resultMap>
+
+	<select id="selOneById" resultMap="wfMap">
+	    select * from tb_wangfei where id=#{id}
+	</select>
+
+  <select id="queryAll" resultMap="wfMap">
+    select * from tb_wangfei
+  </select>
+  
+  <insert id="addWangFei" parameterType="map">
+  	insert into tb_wangfei (number,password,balance,descs) 
+  	value(#{number},#{password},#{balance},#{descs})
+  </insert>
+  
+  <update id="updateWangFei" parameterType="WangFei">
+  	update tb_wangfei 
+  	<!-- set number=#{number},password=#{password},balance=#{balance},
+  	descs=#{descs} where id=#{id} -->
+  	<set>
+  		number=#{number},password=#{password},
+  		<if test="balance != null and balance != ''">
+  			balance=#{balance},
+  		</if>
+  		<if test="descs != null and descs != ''">
+  			descs=#{descs}
+  		</if>
+  	</set>
+  	<where>
+  		id=#{id}
+  	</where>
+  </update>
+  
+  <delete id="delWangFei" parameterType="int">
+  	delete from tb_wangfei where id=#{id}
+  </delete>
+</mapper>

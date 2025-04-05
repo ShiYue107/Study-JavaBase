@@ -1,0 +1,40 @@
+@charset "UTF-8";
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li{
+	list-style: none;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+}
+#content{
+	font-family: '微软雅黑','文泉驿正黑','黑体';
+	font-size:20px;
+	width: 370px;
+	height: 410px;
+	margin: 200px auto;
+}
+#top{
+	margin-left:5px;
+	margin-top:9px;
+	width: 340px;
+	height: 64px;
+	padding: 15px 10px;
+}
+
+#centre{
+	margin-left:5px;
+	width: 340px;
+	height: 160px;
+	padding: 5px 10px;
+}
+#donw{
+	margin-left:5px;
+	margin-top:-35px;
+	width: 340px;
+	height: 100px;
+	padding: 5px 10px;
+}

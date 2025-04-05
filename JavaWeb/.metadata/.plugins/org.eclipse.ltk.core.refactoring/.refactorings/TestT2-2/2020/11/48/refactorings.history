@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;TestT2-2&apos;&#x0D;&#x0A;- Original project: &apos;TestT2-2&apos;&#x0D;&#x0A;- Original element: &apos;TestT2-2/src/com.zf.pojo&apos;" description="Delete element" element1="/src&lt;com.zf.pojo" element2="/src&lt;com.zf" element3="/src&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1606369009028" subPackages="false" version="1.0"/>
+</session>

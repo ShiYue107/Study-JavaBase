@@ -1,0 +1,11 @@
+package com.itkoma.SqlSessionUtils;
+
+import org.apache.ibatis.session.SqlSession;
+
+public class SqlSessionBase {
+	
+	public static SqlSession getSqlSession() {
+		
+	}
+
+}

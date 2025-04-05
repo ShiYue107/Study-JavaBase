@@ -1,0 +1,15 @@
+package com.itkoma.SqlSessionUtils;
+
+import org.apache.ibatis.session.SqlSession;
+
+public class SqlSessionBase {
+	
+	public static SqlSession getSqlSession() {
+		
+		String resource = "org/mybatis/example/mybatis-config.xml";
+		InputStream inputStream = Resources.getResourceAsStream(resource);
+		sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+		return null;
+	}
+
+}

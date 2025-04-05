@@ -1,0 +1,14 @@
+package com.itkoma.Model;
+
+public class Student {
+
+	private String id;
+	private String name;
+	private String age;
+	private String gender;
+	private String classId;
+	private String address;
+	private String tel;
+	private String desc;
+
+}

@@ -1,0 +1,5 @@
+package com.itkoma.Model;
+
+public class Student {
+
+}

@@ -1,0 +1,31 @@
+package com.itkoma.Model;
+
+public class Student {
+
+	private String id;
+	private String name;
+	private String age;
+	private String gender;
+	private String classId;
+	private String address;
+	private String tel;
+	private String desc;
+	
+	private String stuClass;
+	
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", age=" + age + ", gender=" + gender + ", classId=" + classId
+				+ ", address=" + address + ", tel=" + tel + ", desc=" + desc + ", stuClassName=" + stuClass.getClass + "]";
+	}
+	
+
+	
+}

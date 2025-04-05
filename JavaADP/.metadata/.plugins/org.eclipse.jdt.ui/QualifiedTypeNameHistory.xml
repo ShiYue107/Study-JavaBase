@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.ProcessBuilder.Redirect"/>
+    <fullyQualifiedTypeName name="com.javaDemo3.FileClient"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="com.javaDemo3.FileServer"/>
+    <fullyQualifiedTypeName name="com.t2.QZC"/>
+    <fullyQualifiedTypeName name="com.t2.PCar"/>
+    <fullyQualifiedTypeName name="com.t3.Current"/>
+    <fullyQualifiedTypeName name="com.t3.SellShouP"/>
+    <fullyQualifiedTypeName name="com.t4.InetAddressSimple"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+    <fullyQualifiedTypeName name="com.t4.ReceiveImpl"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.t4.Sendlmpl"/>
+    <fullyQualifiedTypeName name="com.t4.Receiverlmpl"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="com.java.t4.Sendlmpl"/>
+    <fullyQualifiedTypeName name="com.java.t4.Recicelmpl"/>
+    <fullyQualifiedTypeName name="org.dom4j.Document"/>
+    <fullyQualifiedTypeName name="org.dom4j.Element"/>
+    <fullyQualifiedTypeName name="org.dom4j.DocumentHelper"/>
+    <fullyQualifiedTypeName name="org.dom4j.io.OutputFormat"/>
+    <fullyQualifiedTypeName name="org.dom4j.io.XMLWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="com.java.t5.CityXML"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.demo2.Maim"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.demo2.Maim2"/>
+    <fullyQualifiedTypeName name="com.demo4.YuDi"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package com.itkoma.SqlSessionUtils;
+
+public class SqlSessionBase {
+
+}

@@ -1,0 +1,11 @@
+package com.itkoma.JTest;
+
+import org.junit.Test;
+
+public class Test1 {
+	@Test
+	public void selectTest() {
+		
+	}
+
+}
